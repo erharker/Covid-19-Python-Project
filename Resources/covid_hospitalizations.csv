@@ -1,5 +1,3 @@
-"COVID-19-Associated Hospitalization Rates (per 100,000 population) for the COVID-NET Network (downloaded on "Jul-15-2020)
-Centers for Disease Control and Prevention.
 CATCHMENT,NETWORK,YEAR,MMWR-YEAR,MMWR-WEEK,AGE CATEGORY,CUMULATIVE RATE,WEEKLY RATE 
 Entire Network,COVID-NET,2020,2020,10,0-4 yr,0,0
 Entire Network,COVID-NET,2020,2020,11,0-4 yr,0,0
